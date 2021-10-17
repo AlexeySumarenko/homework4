@@ -1,0 +1,91 @@
+body {
+    font-family:Verdana;
+    color:#06389e;
+    background-color:#e6e6e6;
+    margin-top:0;
+    
+}
+h2,h3 {
+    font-size:24px;
+    text-align: center;
+    text-transform:uppercase;
+    color:#494d56;
+    margin-top:0;
+}
+h4 {
+    font-size:20px;
+    text-align: center;
+    text-transform:uppercase;
+    color:#494d56;
+    margin-top:0;
+}
+#shapka, #slogan {
+    font-family: Arial;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+}
+#slogan {
+    padding: 5px 0;
+}
+.foot {
+    color:white;
+    font-size: 0.6em;
+    text-align:center;
+}
+.foot a {
+    color:white;
+    text-decoration: none
+}
+
+ul,.content {
+    font-size: 0.7em;
+}
+ul {
+    font-family: Tahoma;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+}
+.content {
+    padding: 10px 15px;
+    text-align: justify;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+.content a{
+    text-decoration: none;
+    color:#494d56;
+    font-weight: bolder;
+}
+ol {
+    font-size:0.8em;
+}
+ol li a {
+    color:gray;
+}
+
+#table1 {
+	background-color:#6699ff;
+    border-spacing:0px;
+    padding:0px;
+    border: 3px solid #6699ff;
+    width:800px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+#table2 {
+	background-color:white;
+    border-spacing:0px;
+    padding:0px;
+    border: 3px solid #6699ff;
+    width:800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#tr1 {
+    background-color: #6699ff;
+}
+#td1 {
+    width: 100px;
+}
